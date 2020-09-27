@@ -2,6 +2,13 @@
 
 Projet personnel de Robot Autonome.
 
+
+Robot sur 4 roues autonome dans ses mouvements grace a divers capteurs (ultraSon, infraRouge, camera).
+-Hardware : ArduinoNano x3, RaspberryPi4 x1
+-Stack : NodeJs, openCV, Angular
+-Communication Serial et I2C
+
+
 ## Ceci est un POC. Toute l'appli est à refaire après établissement d'un cahier des charges réfléchi
 
 
